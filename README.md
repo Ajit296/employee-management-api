@@ -52,7 +52,7 @@ employee-management-api/
 
 ⚙️ Setup & Run
 Clone the repository
-git clone https://github.com/your-username/employee-management-api.git
+git clone https://github.com/Ajit296/employee-management-api.git
 cd employee-management-api
 
 Build the project
@@ -126,4 +126,4 @@ Ajit Kumar
 
 Email: +91-7004576814
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Ajit296
